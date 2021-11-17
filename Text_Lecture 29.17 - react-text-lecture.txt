@@ -1,0 +1,3 @@
+To follow along smoothly, make sure you install React Router v5 by running:
+
+npm install --save react-router-dom@5
