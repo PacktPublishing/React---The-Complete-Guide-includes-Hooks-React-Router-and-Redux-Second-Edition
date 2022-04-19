@@ -1,0 +1,6 @@
+A Note About New React Projects & NodeJS
+In the next lecture, we will need to install NodeJS (the tool we use for creating React projects uses it).
+
+You will learn how to create React projects and how to download + install NodeJS in the next lecture but make sure that you DON'T download NodeJS version 17! Because at the moment, the created projects won't work with that version.
+
+Instead, download the LTS version of NodeJS. You can download that version via this link (use the "LTS" version): https://nodejs.org/en/download/

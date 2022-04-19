@@ -1,0 +1,6 @@
+Bonus: Managing Multiple State Slices with the Custom Store Hook
+In this module, I show how to manage one slice (i.e. one kind of) state with the custom store hook.
+
+You can also use it to manage multiple, independent state slices though.
+
+In 25-replacing-redux/code/06-bonus-multiple-slices, you find an enhanced example where more than one state slice gets managed

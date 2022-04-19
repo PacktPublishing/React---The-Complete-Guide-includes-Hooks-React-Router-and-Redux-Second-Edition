@@ -1,0 +1,20 @@
+Section 20 - Upgrading To React Router v6 - Resources
+
+
+First example (v5)
+https://github.com/academind/react-router-v6-update/tree/base-example-v5
+
+First example (v6)
+https://github.com/academind/react-router-v6-update/tree/base-example-v6
+
+Second example (v5)
+https://github.com/academind/react-router-v6-update/tree/second-example-v5
+
+Second example (v6)
+https://github.com/academind/react-router-v6-update/tree/second-example-v6
+
+Final project (v5)
+https://github.com/academind/react-router-v6-update/tree/final-example-v5
+
+Final project (v6)
+https://github.com/academind/react-router-v6-update/tree/final-example-v6
