@@ -1,3 +1,0 @@
-To follow along smoothly, make sure you install the correct version (when we install the package in the next lecture) by running:
-
-npm install --save react-router-dom@5
