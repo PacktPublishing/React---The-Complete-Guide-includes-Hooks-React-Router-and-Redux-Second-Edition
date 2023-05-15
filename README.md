@@ -41,44 +41,44 @@ No prior React or any other JS framework experience is required!
 
 ## Author Bio
 
-**Academind GmbH **
+**Academind GmbH**<br>
 Bundling the courses and the knowledge of successful instructors, Academind strives to deliver high-quality online education. The platform covers topics such as web development, data analysis, and more in a fun and engaging way.  
   
-**Maximilian Schwarzmüller **
+**Maximilian Schwarzmüller**<br>
 Since the age of 13, he has never stopped learning new programming skills and languages. In his early days, he started creating websites simply for fun. This passion has remained and shaped his decision to work as a freelance web developer and consultant. Although he started web development on the backend (PHP with Laravel and NodeJS), he has progressed to becoming a front-end developer using modern frameworks such as React, Angular, and VueJS 2 in many projects.  
   
 The most rewarding experience for him is to see how people find new and better jobs, build exciting web applications, acquire amazing projects, or simply enjoy their hobby with the help of his content.
 
 ## Course Table of Contents
 Section 1: Getting Started
-Section 2: Optional: JavaScript Refresher
-Section 3: React Basics and Working with Components
-Section 4: React State and Working with Events
-Section 5: Rendering Lists and Conditional Content
-Section 6: Styling React Components
-Section 7: Debugging React Apps
-Section 8: Time to Practice: A Complete Practice Project
-Section 9: Diving Deeper: Working with Fragments, Portals, and “Refs”
-Section 10: Advanced: Handling Side Effects, Using Reducers, and Using the Context API
-Section 11: Practice Project: Building a Food Order App
-Section 12: A Look Behind the Scenes of React and Optimization Techniques
-Section 13: An Alternative Way of Building Components: Class-Based Components
-Section 14: Sending HTTP Requests
-Section 15: Building Custom React Hooks
-Section 16: Working with Forms and User Input
-Section 17: Practice Project: Adding HTTP and Forms to the Food Order App
-Section 18: Diving into Redux
-Section 19: Advanced Redux
-Section 20: Building a Multi-Page SPA with React Router
-Section 21: Deploying React Apps
-Section 22: Authentication
-Section 23: An Introduction to Next.js
-Section 24: Animating React Apps
-Section 25: Replacing Redux with React Hooks
-Section 26: Testing React Apps
-Section 27: React and TypeScript
-Section 28: Optional: React Hooks Introduction and Summary
-Section 29: Optional: React Summary and Core Feature Walkthrough
-Section 30: Course Roundup
+Section 2: Optional: JavaScript Refresher<br>
+Section 3: React Basics and Working with Components<br>
+Section 4: React State and Working with Events<br>
+Section 5: Rendering Lists and Conditional Content<br>
+Section 6: Styling React Components<br>
+Section 7: Debugging React Apps<br>
+Section 8: Time to Practice: A Complete Practice Project<br>
+Section 9: Diving Deeper: Working with Fragments, Portals, and “Refs”<br>
+Section 10: Advanced: Handling Side Effects, Using Reducers, and Using the Context API<br>
+Section 11: Practice Project: Building a Food Order App<br>
+Section 12: A Look Behind the Scenes of React and Optimization Techniques<br>
+Section 13: An Alternative Way of Building Components: Class-Based Components<br>
+Section 14: Sending HTTP Requests<br>
+Section 15: Building Custom React Hooks<br>
+Section 16: Working with Forms and User Input<br>
+Section 17: Practice Project: Adding HTTP and Forms to the Food Order App<br>
+Section 18: Diving into Redux<br>
+Section 19: Advanced Redux<br>
+Section 20: Building a Multi-Page SPA with React Router<br>
+Section 21: Authentication<br>
+Section 22: Deploying React Apps<br>
+Section 23: An Introduction to Next.js<br>
+Section 24: Animating React Apps<br>
+Section 25: Replacing Redux with React Hooks<br>
+Section 26: Testing React Apps<br>
+Section 27: React and TypeScript<br>
+Section 28: Optional: React Hooks Introduction and Summary<br>
+Section 29: Optional: React Summary and Core Feature Walkthrough<br>
+Section 30: Course Roundup<br>
 
 
