@@ -4,15 +4,10 @@ This repository contains the course source code and other extra materials like s
 
 ## How to use
 
-The code snapshots are organized in multiple **branches** where every branch **represents a course section**.
+The code snapshots are organized in multiple **Folders** where every Folder **represents a course section**.
 
-For example, the branch [Section 1 Getting Started](https://github.com/PacktPublishing/React---The-Complete-Guide-includes-Hooks-React-Router-and-Redux-Second-Edition) holds all code snapshots and extra materials for section 1 of the course ("Getting Started").
 
-You can switch branches via the branch dropdown above the directory explorer.
-
-![Click on the branch dropdown and then select the appropriate branch for the course section you're looking for](./selecting-a-branch.jpg)
-
-In most branches, you'll find multiple folders which organize the section-specific content further:
+In most Folders, you'll find multiple folders which organize the section-specific content further:
 
 - Often, you'll find a `/code` subfolder which contains any relevent code snapshots for the given course section
 - You also often find `/slides` folders which - guess what - contain the slides for the module
