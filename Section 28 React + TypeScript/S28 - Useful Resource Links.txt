@@ -1,0 +1,27 @@
+S28 - Useful Resource Links
+
+28.2 - What and Why - CodeSandbox Starting Project:
+https://codesandbox.io/p/sandbox/react-ts-just-ts-start-loflb6
+
+28.11 - React + TypeScript Project - CodeSandbox Starting Project:
+https://codesandbox.io/s/react-ts-start-eqyxjo
+
+28.12 - Working with Components and TypeScript - CodeSandbox Starting Project:
+https://codesandbox.io/s/react-ts-start-eqyxjo
+
+Style Files (Code):
+https://github.com/academind/react-complete-guide-code/tree/27-react-typescript/extra-files
+
+--------
+
+You may want to compare your code to mine (e.g. to find + fix errors).
+
+For that, you find multiple code snapshots for this module here in this Github repository:
+https://github.com/academind/react-complete-guide-code/tree/27-react-typescript
+
+Usage instructions can be found on the page that link is leading to.
+
+Simply pick one of the snapshots in the /code folder - the subfolder names are chosen such that they are easy to match against lecture names in this course section.
+
+You also find section slides (if available) in that Github repository.
+

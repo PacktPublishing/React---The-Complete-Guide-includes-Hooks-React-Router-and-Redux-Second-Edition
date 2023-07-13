@@ -1,0 +1,34 @@
+S09 - Useful Resource Links
+
+CodeSandbox for First Practice Project:
+https://codesandbox.io/s/investment-prj-cd9ws7
+
+
+CodeSandbox for Adding a "User": Component:
+https://codesandbox.io/s/complete-practice-project-byqr92
+
+AddUser.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/08-practice-project/extra-files/AddUser.module.css
+
+Button.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/08-practice-project/extra-files/Button.module.css
+
+UsersList.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/08-practice-project/extra-files/UsersList.module.css
+
+ErrorModal.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/08-practice-project/extra-files/ErrorModal.module.css
+
+
+-----------
+
+You may want to compare your code to mine (e.g. to find + fix errors).
+
+For that, you find multiple code snapshots for this module here in this Github repository: 
+https://github.com/academind/react-complete-guide-code/tree/08-practice-project
+
+Usage instructions can be found on the page that link is leading to.
+
+Simply pick one of the snapshots in the /code folder - the subfolder names are chosen such that they are easy to match against lecture names in this course section.
+
+You also find section slides (if available) in that Github repository.

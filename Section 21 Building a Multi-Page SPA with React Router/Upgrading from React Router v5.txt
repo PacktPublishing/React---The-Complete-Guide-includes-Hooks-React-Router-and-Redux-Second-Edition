@@ -1,0 +1,10 @@
+Upgrading from React Router v5
+This course section covered React Router v6 - a version that introduced many important changes (compared to React Router v5).
+
+Nonetheless, React Router v5 is also still used in many projects. In case you want to learn how to update from v5 to v6, the following two (free) videos should be very helpful:
+
+Upgrading from v5 to v6: https://www.youtube.com/watch?v=zEQiNFAwDGo
+
+Upgrading from v6 to v6.4 (introduced key data fetching features): https://www.youtube.com/watch?v=L2kzUg6IzxM
+
+The published lectures in this course use the latest version React 6.4!

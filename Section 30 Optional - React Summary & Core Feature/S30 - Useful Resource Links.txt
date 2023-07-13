@@ -1,0 +1,53 @@
+S30 - Useful Resource Links
+
+Starting Project:
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/extra-files/starting-project.zip
+
+CodeSandbox Starting Project:
+https://codesandbox.io/s/react-summary-start-cbyeo8
+
+Post.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/extra-files/Post.module.css
+
+PostList.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/extra-files/PostsList.module.css
+
+NewPost.jsx Code:
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/extra-files/NewPost.jsx
+
+NewPost.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/extra-files/NewPost.module.css
+
+Modal.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/extra-files/Modal.module.css
+
+MainHeader.jsx Code:
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/extra-files/MainHeader.jsx
+
+MainHeader.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/extra-files/MainHeader.module.css
+
+Dummy Backend:
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/extra-files/dummy-backend.zip
+
+Updated NewPost.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/code/18-links-navigation/src/routes/NewPost.module.css
+
+PostDetails.jsx Code:
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/extra-files/PostDetails.jsx
+
+PostDetails.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/extra-files/PostDetails.module.css
+
+---------------
+
+You may want to compare your code to mine (e.g. to find + fix errors).
+
+For that, you find multiple code snapshots for this module here in this Github repository:
+https://github.com/academind/react-complete-guide-code/tree/zz-reactjs-summary-updated
+
+Usage instructions can be found on the page that link is leading to.
+
+Simply pick one of the snapshots in the /code folder - the subfolder names are chosen such that they are easy to match against lecture names in this course section.
+
+You also find section slides (if available) in that Github repository.

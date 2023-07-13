@@ -1,0 +1,17 @@
+S02 - Useful Resource Links
+
+CodeSandbox Starting Project:
+https://codesandbox.io/s/javascript-refresher-start-rytt3j
+
+React Demo Project (CodeSandbox):
+https://codesandbox.io/s/react-vs-vanilla-demo-uc08fv
+
+Finished Code (CodeSandbox):
+https://codesandbox.io/s/javascript-refresher-j56djd
+
+------
+You can also find the finished code snapshot for this module here in this Github repository: https://github.com/academind/react-complete-guide-code/tree/02-js-refresher
+
+Usage instructions can be found on the page that link is leading to.
+
+You can also find section slides (if available) in that Github repository.

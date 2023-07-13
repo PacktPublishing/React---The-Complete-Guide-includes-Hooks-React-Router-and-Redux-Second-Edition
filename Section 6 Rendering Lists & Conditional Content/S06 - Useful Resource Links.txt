@@ -1,0 +1,21 @@
+S06 - Useful Resource Links
+
+ExpenseList.css Code:
+https://github.com/academind/react-complete-guide-code/blob/05-rendering-lists-conditional-content/extra-files/ExpensesList.css
+
+Chart.css Code:
+https://github.com/academind/react-complete-guide-code/blob/05-rendering-lists-conditional-content/extra-files/Chart.css
+
+ChartBar.css Code:
+https://github.com/academind/react-complete-guide-code/blob/05-rendering-lists-conditional-content/extra-files/ChartBar.css
+
+-------------
+You may want to compare your code to mine (e.g. to find + fix errors).
+
+For that, you find multiple code snapshots for this module here in this Github repository: https://github.com/academind/react-complete-guide-code/tree/05-rendering-lists-conditional-content
+
+Usage instructions can be found on the page that link is leading to.
+
+Simply pick one of the snapshots in the /code folder - the subfolder names are chosen such that they are easy to match against lecture names in this course section.
+
+You also find section slides (if available) in that Github repository.

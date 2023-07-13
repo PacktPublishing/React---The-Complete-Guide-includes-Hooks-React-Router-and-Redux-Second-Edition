@@ -1,0 +1,49 @@
+S21 - Useful Resource Links
+
+Starting Project:
+https://github.com/academind/react-complete-guide-code/blob/20-building-mpas-with-react-router-updated/extra-files/01-starting-project.zip
+
+CodeSandbox Starting Project:
+https://codesandbox.io/s/multi-page-spa-react-router-58egl1
+
+MainNavigation.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/20-building-mpas-with-react-router-updated/extra-files/MainNavigation.module.css
+
+New Starting Project:
+https://github.com/academind/react-complete-guide-code/blob/20-building-mpas-with-react-router-updated/extra-files/12-adv-starting-project.zip
+
+Events.js Code:
+https://github.com/academind/react-complete-guide-code/blob/20-building-mpas-with-react-router-updated/extra-files/Events.js
+
+PageContent.js Code:
+https://github.com/academind/react-complete-guide-code/blob/20-building-mpas-with-react-router-updated/extra-files/PageContent.js
+
+PageContent.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/20-building-mpas-with-react-router-updated/extra-files/PageContent.module.css
+
+Updated MainNavigation.js File:
+https://github.com/academind/react-complete-guide-code/blob/20-building-mpas-with-react-router-updated/extra-files/MainNavigation.js
+
+NewsletterSignup.js Code:
+https://github.com/academind/react-complete-guide-code/blob/20-building-mpas-with-react-router-updated/extra-files/NewsletterSignup.js
+
+NewsletterSignup.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/20-building-mpas-with-react-router-updated/extra-files/NewsletterSignup.module.css
+
+Newsletter.js Code:
+https://github.com/academind/react-complete-guide-code/blob/20-building-mpas-with-react-router-updated/extra-files/Newsletter.js
+
+Updated App.js File:
+https://github.com/academind/react-complete-guide-code/blob/20-building-mpas-with-react-router-updated/extra-files/App.js
+
+------------------
+You may want to compare your code to mine (e.g. to find + fix errors).
+
+For that, you find multiple code snapshots for this module here in this Github repository:
+https://github.com/academind/react-complete-guide-code/tree/20-building-mpas-with-react-router-updated
+
+Usage instructions can be found on the page that link is leading to.
+
+Simply pick one of the snapshots in the /code folder - the subfolder names are chosen such that they are easy to match against lecture names in this course section.
+
+You also find section slides (if available) in that Github repository.

@@ -1,0 +1,32 @@
+S14 - Useful Resource Links
+
+CodeSandbox Starting Project:
+https://codesandbox.io/s/class-based-components-594pki
+
+Understanding "this" in JavaScript (Tutorial):
+https://academind.com/tutorials/this-keyword-function-references/
+
+UserFinder.js Code:
+https://github.com/academind/react-complete-guide-code/blob/13-class-based-cmp/extra-files/UserFinder.js
+
+UserFinder.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/13-class-based-cmp/extra-files/UserFinder.module.css
+
+App.js Code:
+https://github.com/academind/react-complete-guide-code/blob/13-class-based-cmp/extra-files/App.js
+
+user-context.js Code:
+https://github.com/academind/react-complete-guide-code/blob/13-class-based-cmp/extra-files/users-context.js
+
+--------
+
+You may want to compare your code to mine (e.g. to find + fix errors).
+
+For that, you find multiple code snapshots for this module here in this Github repository:
+https://github.com/academind/react-complete-guide-code/tree/13-class-based-cmp
+
+Usage instructions can be found on the page that link is leading to.
+
+Simply pick one of the snapshots in the /code folder - the subfolder names are chosen such that they are easy to match against lecture names in this course section.
+
+You also find section slides (if available) in that Github repository.

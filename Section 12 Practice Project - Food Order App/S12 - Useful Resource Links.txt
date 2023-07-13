@@ -1,0 +1,65 @@
+S12 - Useful Resource Links
+
+Section Style Files:
+https://github.com/academind/react-complete-guide-code/tree/11-practice-food-order-app/extra-files
+
+CodeSandbox Starting Project:
+https://codesandbox.io/s/food-order-app-1oi2ho
+
+Header.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/11-practice-food-order-app/extra-files/Header.module.css
+
+meals.jpg File:
+https://github.com/academind/react-complete-guide-code/blob/11-practice-food-order-app/extra-files/meals.jpg
+
+HeaderCartButton.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/11-practice-food-order-app/extra-files/HeaderCartButton.module.css
+
+CartIcon.js Code:
+https://github.com/academind/react-complete-guide-code/blob/11-practice-food-order-app/extra-files/CartIcon.js
+
+MealsSummary.js Code:
+https://github.com/academind/react-complete-guide-code/blob/11-practice-food-order-app/extra-files/MealsSummary.js
+
+MealsSummary.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/11-practice-food-order-app/extra-files/MealsSummary.module.css
+
+dummy-meals.js (Data File):
+https://github.com/academind/react-complete-guide-code/blob/11-practice-food-order-app/extra-files/dummy-meals.js
+
+AvailableMeals.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/11-practice-food-order-app/extra-files/AvailableMeals.module.css
+
+MealItem.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/11-practice-food-order-app/extra-files/MealItem.module.css
+
+Card.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/11-practice-food-order-app/extra-files/Card.module.css
+
+Input.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/11-practice-food-order-app/extra-files/Input.module.css
+
+MealItemForm.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/11-practice-food-order-app/extra-files/MealItemForm.module.css
+
+Cart.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/11-practice-food-order-app/extra-files/Cart.module.css
+
+Modal.module.css Code:
+https://github.com/academind/react-complete-guide-code/blob/11-practice-food-order-app/extra-files/Modal.module.css
+
+CartItem.zip File:
+https://github.com/academind/react-complete-guide-code/blob/11-practice-food-order-app/extra-files/CartItem.zip
+
+-----------
+
+You may want to compare your code to mine (e.g. to find + fix errors).
+
+For that, you find multiple code snapshots for this module here in this Github repository:
+https://github.com/academind/react-complete-guide-code/tree/11-practice-food-order-app
+
+Usage instructions can be found on the page that link is leading to.
+
+Simply pick one of the snapshots in the /code folder - the subfolder names are chosen such that they are easy to match against lecture names in this course section.
+
+You also find section slides (if available) in that Github repository.

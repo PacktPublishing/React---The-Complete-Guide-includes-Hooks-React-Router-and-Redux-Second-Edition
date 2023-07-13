@@ -1,0 +1,28 @@
+S03 - Useful Resource Links
+
+Section Code Snapsots (GitHub Link):
+https://github.com/academind/react-complete-guide-code/tree/03-react-basics-working-with-components/code
+
+CodeSandbox Starting Project:
+https://codesandbox.io/s/cmp-basics-start-4959mq
+
+ExpenseItem.css Code:
+https://github.com/academind/react-complete-guide-code/blob/03-react-basics-working-with-components/extra-files/ExpenseItem.css
+
+Expenses.txt File:
+https://github.com/academind/react-complete-guide-code/blob/03-react-basics-working-with-components/extra-files/expenses.txt
+
+ExpenseDate.css Code:
+https://github.com/academind/react-complete-guide-code/blob/03-react-basics-working-with-components/extra-files/ExpenseDate.css
+
+More on JavaScript Arrow Functions:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
+------------
+You will find multiple code snapshots for this module here in this Github repository: https://github.com/academind/react-complete-guide-code/tree/03-react-basics-working-with-components
+
+Usage instructions can be found on the page that link is leading to.
+
+Simply pick one of the snapshots in the /code folder - the subfolder names are chosen such that they are easy to match against lecture names in this course section.
+
+You can also find section slides (if available) in that Github repository.
