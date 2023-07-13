@@ -50,35 +50,34 @@ Since the age of 13, he has never stopped learning new programming skills and la
 The most rewarding experience for him is to see how people find new and better jobs, build exciting web applications, acquire amazing projects, or simply enjoy their hobby with the help of his content.
 
 ## Course Table of Contents
-Section 1: Getting Started
-Section 2: Optional: JavaScript Refresher<br>
-Section 3: React Basics and Working with Components<br>
-Section 4: React State and Working with Events<br>
-Section 5: Rendering Lists and Conditional Content<br>
-Section 6: Styling React Components<br>
-Section 7: Debugging React Apps<br>
-Section 8: Time to Practice: A Complete Practice Project<br>
-Section 9: Diving Deeper: Working with Fragments, Portals, and “Refs”<br>
-Section 10: Advanced: Handling Side Effects, Using Reducers, and Using the Context API<br>
-Section 11: Practice Project: Building a Food Order App<br>
-Section 12: A Look Behind the Scenes of React and Optimization Techniques<br>
-Section 13: An Alternative Way of Building Components: Class-Based Components<br>
-Section 14: Sending HTTP Requests<br>
-Section 15: Building Custom React Hooks<br>
-Section 16: Working with Forms and User Input<br>
-Section 17: Practice Project: Adding HTTP and Forms to the Food Order App<br>
-Section 18: Diving into Redux<br>
-Section 19: Advanced Redux<br>
-Section 20: Building a Multi-Page SPA with React Router<br>
-Section 21: Authentication<br>
-Section 22: Deploying React Apps<br>
-Section 23: An Introduction to Next.js<br>
-Section 24: Animating React Apps<br>
-Section 25: Replacing Redux with React Hooks<br>
-Section 26: Testing React Apps<br>
-Section 27: React and TypeScript<br>
-Section 28: Optional: React Hooks Introduction and Summary<br>
-Section 29: Optional: React Summary and Core Feature Walkthrough<br>
-Section 30: Course Roundup<br>
-
-
+Section 1: Getting Started 	<br>
+Section 2: JavaScript Refresher 	<br>
+Section 3: React Basics & Working With Components 	<br>
+Section 4: Time to Practice - Component Basics [Added in July 2023]	<br>
+Section 5: React State & Working with Events 	<br>
+Section 6: Rendering Lists & Conditional Content 	<br>
+Section 7: Styling React Components 	<br>
+Section 8: Debugging React Apps 	<br>
+Section 9: Time to Practice - A Complete Practice Project 	<br>
+Section 10: Diving Deeper - Working with Fragments, Portals & "Refs" 	<br>
+Section 11: Advanced - Handling Side Effects, Using Reducers & Using the Context API 	<br>
+Section 12: Practice Project - Building a Food Order App 	<br>
+Section 13: A Look Behind The Scenes Of React & Optimization Techniques 	<br>
+Section 14: An Alternative Way Of Building Components - Class-based Components 	<br>
+Section 15: Sending Http Requests (e.g. Connecting to a Database)	<br>
+Section 16: Building Custom React Hooks 	<br>
+Section 17: Working with Forms & User Input 	<br>
+Section 18: Practice Project - Adding Http & Forms To The Food Order App	<br>
+Section 19: Diving into Redux (An Alternative To The Context API)	<br>
+Section 20: Advanced Redux	<br>
+Section 21: Building a Multi-Page SPA with React Router	<br>
+Section 22: Adding Authentication To React Apps	<br>
+Section 23: Deploying React Apps	<br>
+Section 24: A (Pretty Deep Dive) Introduction to Next.js	<br>
+Section 25: Animating React Apps	<br>
+Section 26: Replacing Redux with React Hooks	<br>
+Section 27: Testing React Apps (Unit Tests)	<br>
+Section 28: React + TypeScript	<br>
+Section 29: Optional - React Hooks Introduction & Summary	<br>
+Section 30: Optional - React Summary & Core Feature Walkthrough	<br>
+Section 31: Course Roundup	<br>
