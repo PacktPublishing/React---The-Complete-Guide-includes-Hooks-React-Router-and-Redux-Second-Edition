@@ -81,3 +81,12 @@ Section 28: React + TypeScript	<br>
 Section 29: Optional - React Hooks Introduction & Summary	<br>
 Section 30: Optional - React Summary & Core Feature Walkthrough	<br>
 Section 31: Course Roundup	<br>
+
+# Discord Community
+As a student of this course, you also get free access to our “Academind Community” on Discord: https://discord.gg/gxvEWGU
+
+There, you can find like-minded people, discuss issues, help each other, share progress, successes, and ideas and simply have a good time!
+
+We believe that you learn the most if you don’t learn alone but find learning partners and other people with similar interests. Our community is a great place for this - it’s the perfect complimentary resource for this course.
+
+Joining it is of course free and 100% optional.
