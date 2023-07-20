@@ -7,14 +7,15 @@ This is the code repository for [React - The Complete Guide (Includes Hooks, Rea
 
 ## About Course
 
+React.js is the most popular JavaScript library you can learn and use these days to build modern, reactive user interfaces for the web. In this course, you will dive into the core concepts of React, gaining a thorough understanding of its purpose and benefits. From building components and creating dynamic UIs to harnessing the full potential of React Hooks and working with state management using the Context API and React Redux, we have got you covered. Learn to build standalone React apps and connect them to backends using HTTP. Master routing and data fetching techniques with React Router. Implement user authentication in React apps and build full-stack applications with Next.js. 
 
-React.js is the most popular JavaScript library you can learn and use these days to build modern, reactive user interfaces for the web. Learn React.js in a practice-oriented way, using all the latest patterns and best practices that you need. You will learn all the key fundamentals as well as advanced concepts and related topics to turn you into a React.js developer.  
-  
-You will begin with a thorough introduction to React.js and the core basics: how React works, building components and UIs, props, and dynamic data binding. Then, we will proceed toward working with user events, React hooks, fragments, and portals, and will learn to deal with side-effects, class-based components, and functional components. Gain an in-depth knowledge about handling forms and user input, Redux and Redux Toolkit, Next.js, combining React with TypeScript, and much more. This is a huge course because it really covers EVERYTHING you need to know and learn to become a React.js developer!  
-  
-You will get tons of useful information out of this course. The goal of this course is to ensure that you feel confident working with React so that you can apply for React jobs, use it in your own projects, or simply enhance your portfolio as a developer; whatever your goal is, this course gets you there!  
-  
-By the end of this course, you will become a React.js developer.
+The course includes multiple demo projects, ensuring hands-on experience and practical application. Whether you prefer working locally or in a cloud development environment, we’ve got the flexibility you need. 
+
+We will also dive deep into advanced concepts such as debugging, styling with “Styled Components” and “CSS Modules,” working with Fragments and Portals, managing side effects, form handling with validation, incorporating Redux and Redux Toolkit, and leveraging React with TypeScript. Gain insights into animations and ensure robust code with comprehensive unit testing. 
+
+This updated version includes two new practice projects and an extensively revamped JS Refresher section. The JS Refresher section provides a comprehensive understanding of JavaScript, laying a solid foundation for building React applications. 
+
+By the end of this course, you will be equipped with the skills and knowledge to build robust web applications using React.js confidently. 
 
 ## Target Audience
 
