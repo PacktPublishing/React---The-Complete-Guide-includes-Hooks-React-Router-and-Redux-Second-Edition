@@ -1,0 +1,5 @@
+CodeSandbox Starting Project => https://codesandbox.io/p/devbox/custom-hooks-start-forked-tthdnz
+
+Local Starting Project => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/18%20Practice%20Project%20-%20Food%20Order/01-starting-project.zip
+
+Formatting Numbers => https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat

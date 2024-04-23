@@ -1,0 +1,4 @@
+CodeSandbox Starting Project => https://codesandbox.io/p/sandbox/react-ts-just-ts-start-loflb6
+
+Style Files (Code) => https://github.com/academind/react-complete-guide-course-resources/tree/main/attachments/29%20React%20TypeScript
+

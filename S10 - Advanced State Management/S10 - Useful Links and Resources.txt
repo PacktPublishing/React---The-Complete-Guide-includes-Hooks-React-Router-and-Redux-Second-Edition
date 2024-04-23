@@ -1,0 +1,3 @@
+CodeSandbox Starting Project => https://codesandbox.io/p/sandbox/adv-state-mgmt-context-start-gjyplp
+
+Local Starting Project => https://github.com/academind/react-complete-guide-course-resources/tree/main/attachments/10%20Advanced%20State%20Management%20with%20Context%20useReducer

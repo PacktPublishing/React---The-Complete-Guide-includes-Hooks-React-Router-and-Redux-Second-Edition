@@ -1,0 +1,8 @@
+Starting Project (CodeSandbox) => https://codesandbox.io/p/sandbox/patterns-start-mmqftd
+
+Starting Project (local) => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/27%20Patterns/01-starting-project.zip
+
+Places => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/27%20Patterns/places.ts
+
+Place.jsx => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/27%20Patterns/Place.jsx
+

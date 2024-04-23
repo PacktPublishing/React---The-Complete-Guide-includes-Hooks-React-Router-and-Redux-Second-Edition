@@ -1,0 +1,16 @@
+CodeSandbox Starting Project: https://codesandbox.io/p/sandbox/react-query-start-md9z2g
+
+Local Starting Project: https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/24%20React%20Query/starting-project.zip
+
+CodeSandbox Starting Project - with Tanstack Query: https://codesandbox.io/p/sandbox/react-query-installed-w3qfw8
+
+Local Starting Project - with Tanstack Query: https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/24%20React%20Query/starting-project-with-react-query.zip
+
+Updated http.js file: https://github.com/academind/react-complete-guide-course-resources/blob/main/code/24%20React%20Query/05-changing-data-with-mutations/src/util/http.js
+
+Updated http.js file: https://github.com/academind/react-complete-guide-course-resources/blob/main/code/24%20React%20Query/06-fetching-more-data-and-testing-mutation/src/util/http.js
+
+Updated http.js file: https://github.com/academind/react-complete-guide-course-resources/blob/main/code/24%20React%20Query/08-challenge-problem/src/util/http.js
+
+Updated http.js file: https://github.com/academind/react-complete-guide-course-resources/blob/main/code/24%20React%20Query/10-optimistic-updating/src/util/http.js
+

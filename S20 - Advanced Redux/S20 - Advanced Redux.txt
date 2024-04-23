@@ -1,0 +1,6 @@
+CodeSandbox Starting Project => https://codesandbox.io/s/advanced-redux-yu43d7
+
+Suboptimal Code Snapshot (Example) => https://github.com/academind/react-complete-guide-course-resources/tree/main/code/20%20Advanced%20Redux/zz-suboptimal-example-code
+
+Notification Component Files => https://github.com/academind/react-complete-guide-code/tree/19-advanced-redux/extra-files
+

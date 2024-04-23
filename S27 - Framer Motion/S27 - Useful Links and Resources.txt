@@ -1,0 +1,8 @@
+CodeSandbox Starting Project: https://codesandbox.io/p/sandbox/animations-framer-motion-start-njvxy2
+
+Local Starting Project: https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/26%20Animations/starting-project.zip
+
+CodeSandbox Playground: https://codesandbox.io/p/sandbox/animations-framer-motion-playground-start-w8dcfz
+
+Local Starting Project: https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/26%20Animations/playground.zip
+

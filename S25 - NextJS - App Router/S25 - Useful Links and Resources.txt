@@ -1,0 +1,49 @@
+Starting Project (CodeSandbox) => https://codesandbox.io/p/devbox/nextjs-introduction-start-z6tpd2
+
+Starting Project (local) => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/25%20NextJS%20App%20Router%20Introduction/basics-starting-project.zip
+
+Organizing NextJS Projects => https://nextjs.org/docs/app/building-your-application/routing/colocation
+
+Starting Project (CodeSandbox) => https://codesandbox.io/p/devbox/meals-app-starting-project-y69d3m
+
+Starting Project (local) => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/25%20NextJS%20App%20Router%20Introduction/foodies-starting-project.zip
+
+main-header.module.css => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/25%20NextJS%20App%20Router%20Introduction/lecture-specific/components/main-header/main-header.module.css
+
+More on the Image Component => https://nextjs.org/docs/app/api-reference/components/image
+
+page.module.css => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/25%20NextJS%20App%20Router%20Introduction/lecture-specific/app/page.module.css
+
+page.js => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/25%20NextJS%20App%20Router%20Introduction/lecture-specific/app/page.js
+
+image-slideshow.js => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/25%20NextJS%20App%20Router%20Introduction/lecture-specific/components/images/image-slideshow.js
+
+image-slideshow.module.css => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/25%20NextJS%20App%20Router%20Introduction/lecture-specific/components/images/image-slideshow.module.css
+
+page.js => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/25%20NextJS%20App%20Router%20Introduction/lecture-specific/app/community/page.js
+
+page.module.css => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/25%20NextJS%20App%20Router%20Introduction/lecture-specific/app/community/page.module.css
+
+page.module.css => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/25%20NextJS%20App%20Router%20Introduction/lecture-specific/app/meals/page.module.css
+
+meals-grid.module.css => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/25%20NextJS%20App%20Router%20Introduction/lecture-specific/components/meals/meals-grid.module.css
+
+meal-item.module.css => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/25%20NextJS%20App%20Router%20Introduction/lecture-specific/components/meals/meal-item.module.css
+
+meal-item.css => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/25%20NextJS%20App%20Router%20Introduction/lecture-specific/components/meals/meal-item.js
+
+initdb.js => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/25%20NextJS%20App%20Router%20Introduction/lecture-specific/initdb.js
+
+loading-module.css => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/25%20NextJS%20App%20Router%20Introduction/lecture-specific/app/meals/loading.module.css
+
+page-module.css => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/25%20NextJS%20App%20Router%20Introduction/lecture-specific/app/meals/%5BmealSlug%5D/page.module.css
+
+page.js => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/25%20NextJS%20App%20Router%20Introduction/lecture-specific/app/meals/share/page.js
+
+page-module.css => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/25%20NextJS%20App%20Router%20Introduction/lecture-specific/app/meals/share/page.module.css
+
+image-picker.module.css => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/25%20NextJS%20App%20Router%20Introduction/lecture-specific/components/meals/image-picker.module.css
+
+Official Metadata Docs => https://nextjs.org/docs/app/api-reference/functions/generate-metadata
+
+

@@ -1,0 +1,24 @@
+Starting Project => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/21%20Routing/01-starting-project.zip
+
+CodeSandbox Starting Project => https://codesandbox.io/s/multi-page-spa-react-router-58egl1
+
+MainNavigation.module.css => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/21%20Routing/MainNavigation.module.css
+
+New Starting Project => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/21%20Routing/12-adv-starting-project.zip
+
+Events.js => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/21%20Routing/Events.js
+
+PageContent.js => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/21%20Routing/PageContent.js
+
+PageContent.module.css => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/21%20Routing/PageContent.module.css
+
+Updated MainNavigation.js file => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/21%20Routing/MainNavigation.js
+
+NewsletterSignup.js => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/21%20Routing/NewsletterSignup.js
+
+NewsletterSignup.module.css => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/21%20Routing/NewsletterSignup.module.css
+
+Newsletter.js => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/21%20Routing/Newsletter.js
+
+App.js => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/21%20Routing/App.js
+

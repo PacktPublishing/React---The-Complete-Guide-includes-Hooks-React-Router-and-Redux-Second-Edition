@@ -1,0 +1,3 @@
+CodeSandbox Starting Project => https://codesandbox.io/p/sandbox/refs-portals-start-7jf3nl
+
+Local Starting Project => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/08%20Refs%20Portals/01-starting-project.zip

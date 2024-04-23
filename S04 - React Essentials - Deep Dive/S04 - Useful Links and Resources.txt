@@ -1,0 +1,19 @@
+CodeSandbox starting project => https://codesandbox.io/p/sandbox/react-essentials-deep-dive-start-xmr985
+
+
+Local starting project => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/04%20Essentials%20Deep%20Dive/01-starting-project.zip
+
+
+Tic-Tac-Toe Game - CodeSandbox starting project => https://codesandbox.io/p/sandbox/react-essentials-deep-dive-tic-tac-toe-start-dn7j4s
+
+
+Tic-Tac Toe Game - Local starting project => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/04%20Essentials%20Deep%20Dive/07-tic-tac-toe-starting-project.zip
+
+
+Reference vs Primitive Values => https://academind.com/tutorials/reference-vs-primitive-values
+
+
+JS Template Literals => https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+
+
+winning-combinations.js => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/04%20Essentials%20Deep%20Dive/winning-combinations.js

@@ -1,0 +1,3 @@
+Async.js File => https://github.com/academind/react-complete-guide-course-resources/blob/main/code/28%20Testing/05-testing-async-code/src/components/Async.js
+
+List of available HTML Roles: https://www.w3.org/TR/html-aria/#docconformance

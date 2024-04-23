@@ -1,0 +1,3 @@
+CodeSandbox starting project => https://codesandbox.io/p/sandbox/react-essentials-practice-wh2p5m
+
+Local Starting Project => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/05%20Essentials%20Practice/01-starting-project.zip

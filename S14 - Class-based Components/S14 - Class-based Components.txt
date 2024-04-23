@@ -1,0 +1,11 @@
+CodeSandbox Starting Project => https://codesandbox.io/s/class-based-components-594pki
+
+Understanding "this" in JavaScript (Tutorial) => https://academind.com/tutorials/this-keyword-function-references/
+
+UserFinder.js Code => https://github.com/academind/react-complete-guide-code/blob/13-class-based-cmp/extra-files/UserFinder.js
+
+UserFinder.module.css Code => https://github.com/academind/react-complete-guide-code/blob/13-class-based-cmp/extra-files/UserFinder.module.css
+
+UserFinder.js Code => https://github.com/academind/react-complete-guide-code/blob/13-class-based-cmp/extra-files/UserFinder.js
+
+UserFinder.module.css Code => https://github.com/academind/react-complete-guide-code/blob/13-class-based-cmp/extra-files/UserFinder.module.css

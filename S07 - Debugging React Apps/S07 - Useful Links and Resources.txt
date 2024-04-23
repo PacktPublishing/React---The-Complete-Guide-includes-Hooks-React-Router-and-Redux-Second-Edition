@@ -1,0 +1,5 @@
+CodeSandbox Starting Project => https://codesandbox.io/p/sandbox/debugging-start-vy38s8
+
+Local Starting Project => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/06%20Debugging/01-starting-project.zip
+
+Results.jsx => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/06%20Debugging/Results.jsx

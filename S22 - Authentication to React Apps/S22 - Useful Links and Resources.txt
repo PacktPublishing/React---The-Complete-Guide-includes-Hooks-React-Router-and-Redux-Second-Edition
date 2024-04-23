@@ -1,0 +1,3 @@
+Starting Project => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/22%20Authentication/01-starting-project.zip
+
+Updated auth.js: https://github.com/academind/react-complete-guide-course-resources/blob/main/code/22%20Authentication/09-finished/frontend/src/util/auth.js

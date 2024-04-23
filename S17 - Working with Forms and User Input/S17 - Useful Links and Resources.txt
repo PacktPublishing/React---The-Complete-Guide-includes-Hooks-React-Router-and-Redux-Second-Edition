@@ -1,0 +1,7 @@
+CodeSandbox Starting Project => https://codesandbox.io/p/sandbox/forms-start-j9tmrn
+
+Local Starting Project => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/17%20Forms%20User%20Input/01-starting-project.zip
+
+Signup.jsx => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/17%20Forms%20User%20Input/Signup.jsx
+
+Client-side Form Validation => https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation

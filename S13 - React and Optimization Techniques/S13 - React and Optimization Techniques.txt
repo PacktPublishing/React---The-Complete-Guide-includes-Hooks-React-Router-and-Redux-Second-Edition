@@ -1,0 +1,5 @@
+CodeSandbox Starting Project => https://codesandbox.io/p/sandbox/behind-scenes-start-jzlfgp
+
+Local Starting Project => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/12%20Behind%20the%20Scenes/01-starting-project.zip
+
+Counter.jsx => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/12%20Behind%20the%20Scenes/Counter.jsx
