@@ -17,71 +17,32 @@ This updated version includes two new practice projects and an extensively revam
 
 By the end of this course, you will be equipped with the skills and knowledge to build robust web applications using React.js confidently. 
 
-## Target Audience
 
-Students who want to learn how to build reactive and fast web apps or want to take their web development skills to the next level can opt for this course.  
-  
-This course starts with zero knowledge assumed. All you need is basic web development (HTML + CSS) and JavaScript knowledge. However, the course even includes a brief JavaScript refresher to ensure that we are all on the same page. ES6+ JavaScript knowledge is beneficial but not a must-have.  
-  
-No prior React or any other JS framework experience is required!
+## Note on Large Files
 
-## Course Key Features
+This repository contains large files managed by [Git Large File Storage (LFS)](https://git-lfs.github.com/). To ensure these files are downloaded correctly and without corruption, please follow these straightforward steps:
 
-<li>  Learn all the core basics followed by advanced topics in a progressive manner  
-<li>  Provide amazing user experiences by leveraging the power of JavaScript with ease  
-<li>  Build powerful, fast, user-friendly, and reactive web apps </li>
+### Instructions to Clone the Repository with GitHub Desktop
 
-## What You Will Learn
+1.  **Download and Install GitHub Desktop**:
+    
+    -   Download and install the GitHub Desktop app from this [link](https://desktop.github.com/?ref_cta=download+desktop&ref_loc=installing+github+desktop&ref_page=docs).
+    -   Open the application and sign in with your GitHub credentials.
+2.  **Clone the Repository**:
+    
+    -   In the GitHub Desktop app, navigate to `File` -> `Clone Repository...`.
+    -   In the dialog that appears, paste the URL of this repository into the `URL or username/repository` field.
+    -   Choose a location on your local drive where you'd like to store the repository files and click `Clone`.
+3.  **Open the Cloned Repository**:
+    
+    -   After the cloning process completes, a confirmation message will appear.
+    -   Click `Show in Explorer` (or `Show in Finder` for Mac) to open the folder containing the cloned repository on your computer.
+4.  **Access Your Files**:
+    
+    -   Inside this local repository folder, you will find all the code files. If any files are compressed (zipped), use a tool like [7-Zip](https://www.7-zip.org/) to extract them.
 
-<li>Learn all about components, props, and dynamic data binding
-<li>Work with user events and states to create interactive apps
-<li>Learn all about React Hooks and React components
-<li>Understand class-based components and functional components 
-<li>Explore Redux and Redux toolkit
-<li>Learn to combine React with TypeScript and add animations </li>
+This method ensures that you get an exact copy of the repository, including all files handled by Git LFS, ready for use on your system.
 
-## Author Bio
-
-**Academind GmbH**<br>
-Bundling the courses and the knowledge of successful instructors, Academind strives to deliver high-quality online education. The platform covers topics such as web development, data analysis, and more in a fun and engaging way.  
-  
-**Maximilian Schwarzmüller**<br>
-Since the age of 13, he has never stopped learning new programming skills and languages. In his early days, he started creating websites simply for fun. This passion has remained and shaped his decision to work as a freelance web developer and consultant. Although he started web development on the backend (PHP with Laravel and NodeJS), he has progressed to becoming a front-end developer using modern frameworks such as React, Angular, and VueJS 2 in many projects.  
-  
-The most rewarding experience for him is to see how people find new and better jobs, build exciting web applications, acquire amazing projects, or simply enjoy their hobby with the help of his content.
-
-## Course Table of Contents
-Section 1: Getting Started 	<br>
-Section 2: JavaScript Refresher 	<br>
-Section 3: React Basics & Working With Components 	<br>
-Section 4: Time to Practice - Component Basics [Added in July 2023]	<br>
-Section 5: React State & Working with Events 	<br>
-Section 6: Rendering Lists & Conditional Content 	<br>
-Section 7: Styling React Components 	<br>
-Section 8: Debugging React Apps 	<br>
-Section 9: Time to Practice - A Complete Practice Project 	<br>
-Section 10: Diving Deeper - Working with Fragments, Portals & "Refs" 	<br>
-Section 11: Advanced - Handling Side Effects, Using Reducers & Using the Context API 	<br>
-Section 12: Practice Project - Building a Food Order App 	<br>
-Section 13: A Look Behind The Scenes Of React & Optimization Techniques 	<br>
-Section 14: An Alternative Way Of Building Components - Class-based Components 	<br>
-Section 15: Sending Http Requests (e.g. Connecting to a Database)	<br>
-Section 16: Building Custom React Hooks 	<br>
-Section 17: Working with Forms & User Input 	<br>
-Section 18: Practice Project - Adding Http & Forms To The Food Order App	<br>
-Section 19: Diving into Redux (An Alternative To The Context API)	<br>
-Section 20: Advanced Redux	<br>
-Section 21: Building a Multi-Page SPA with React Router	<br>
-Section 22: Adding Authentication To React Apps	<br>
-Section 23: Deploying React Apps	<br>
-Section 24: A (Pretty Deep Dive) Introduction to Next.js	<br>
-Section 25: Animating React Apps	<br>
-Section 26: Replacing Redux with React Hooks	<br>
-Section 27: Testing React Apps (Unit Tests)	<br>
-Section 28: React + TypeScript	<br>
-Section 29: Optional - React Hooks Introduction & Summary	<br>
-Section 30: Optional - React Summary & Core Feature Walkthrough	<br>
-Section 31: Course Roundup	<br>
 
 # Discord Community
 As a student of this course, you also get free access to our “Academind Community” on Discord: https://discord.gg/gxvEWGU

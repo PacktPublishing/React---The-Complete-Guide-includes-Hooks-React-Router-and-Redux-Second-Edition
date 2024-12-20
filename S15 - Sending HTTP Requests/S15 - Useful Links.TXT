@@ -1,0 +1,9 @@
+CodeSandbox Starting Project => https://codesandbox.io/p/sandbox/sending-http-requests-start-n9f4j4?file=%2F.codesandbox%2Ftasks.json%3A1%2C1
+
+Local Starting Project => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/15%20HTTP%20Requests/01-starting-project.zip
+
+Understanding HTTP => https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP
+
+What is a "REST API" => https://www.youtube.com/watch?v=0oXYLzuucwE
+
+Error.jsx => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/15%20HTTP%20Requests/Error.jsx

@@ -1,0 +1,9 @@
+Code Sandbox Starting Project => https://codesandbox.io/p/sandbox/react-essentials-start-gsmr8r
+
+Local Starting Project => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/03%20React%20Essentials/01-starting-project.zip
+
+App.jsx => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/03%20React%20Essentials/App.jsx
+
+data.js => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/03%20React%20Essentials/data.js
+
+data.js (updated) => https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/03%20React%20Essentials/data-with-examples.js

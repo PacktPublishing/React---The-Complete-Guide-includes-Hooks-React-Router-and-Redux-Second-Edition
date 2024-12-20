@@ -1,0 +1,4 @@
+Starting Project: https://github.com/academind/react-complete-guide-course-resources/tree/main/code/25b%20RSC%2C%20Suspense%2C%20Server%20Actions/01-starting-project
+
+Files: https://github.com/academind/react-complete-guide-course-resources/tree/main/code/25b%20RSC%2C%20Suspense%2C%20Server%20Actions/02-rsc-client-cmp/components
+
